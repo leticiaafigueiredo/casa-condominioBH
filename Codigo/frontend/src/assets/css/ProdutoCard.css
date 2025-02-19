@@ -1,0 +1,63 @@
+.no-image-link {
+    text-align: center;
+    color: #555;
+    text-decoration: none;
+    transition: transform 0.2s ease-in-out;
+}
+
+.no-image-link:hover {
+    transform: scale(1.05);
+    color: #333;
+}
+
+.card-description {
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* Limite de 2 linhas */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.animacao-btn {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.animacao-btn:hover {
+    transform: scale(1.05); /* Aumenta o botão em 5% */
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2); /* Adiciona uma sombra suave */
+}
+
+.animacao-btn:active {
+    transform: scale(0.98); /* Reduz ligeiramente quando clicado */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Sombra reduzida */
+}
+
+
+
+.no-image-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border: 1px dashed #ccc;
+    border-radius: 8px;
+    height: 100%;
+}
+
+.no-image-icon {
+    font-size: 48px;
+    color: #888;
+    transition: transform 0.3s ease-in-out; /* Adiciona transição para a animação */
+}
+
+.no-image-link:hover .no-image-icon {
+    transform: scale(1.2); /* Aumenta o ícone no hover */
+}
+
+.no-image-text {
+    margin-top: 8px;
+    font-size: 16px;
+    color: #888;
+    text-decoration: none !important;/* Remove o sublinhado */
+}

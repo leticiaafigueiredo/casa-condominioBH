@@ -1,0 +1,36 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Casa & Condominio BH
+authors:
+  - family-names: Borges Laass
+    given-names: Thiago
+  - family-names: Amaral Figueiredo
+    given-names: Leticia
+  - family-names: Maria de Araujo Cathalat
+    given-names: Isadora
+  - family-names: Augusto Moreira Corrêa
+    given-names: Felipe
+  - family-names: de Paula Lara Silva
+    given-names: Luisa Clara
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alonso Veloso
+    given-names: Eveline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Norberta de Brito
+    given-names: Aline
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Carneiro Aramuni
+    given-names: João Paulo
+keywords:
+  - e-commerce
+  - growth
+  - market
+  - household items
+  - construction
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh.git
+license: CC-BY-4.0
+version: 3.5
+date-released: 11/12/2024

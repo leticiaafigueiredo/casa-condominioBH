@@ -1,0 +1,10 @@
+{
+    "header":{
+        "home": "Home",
+        "produtos": "Produtos"
+    },
+    "banner": {
+        "titulo": "Altíssima qualidade",
+        "descricao": "Trabalhamos com os produtos das melhores marcas, sempre em busca de oferecer variedade e seguranca"
+    }
+}

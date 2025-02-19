@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a59028d-feb3-4a92-b3c9-b75da7a2a985" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/CeCBH/src/main/java/com/CeCBH/CeCBH/Controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/CeCBH/src/main/java/com/CeCBH/CeCBH/Controller/ProdutoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/CeCBH/src/main/java/com/CeCBH/CeCBH/DTO/ResponseDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/CeCBH/src/main/java/com/CeCBH/CeCBH/DTO/ResponseDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/CeCBH/target/classes/com/CeCBH/CeCBH/Service/ProdutoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/CeCBH/target/classes/com/CeCBH/CeCBH/Service/ProdutoService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/CeCBH/target/classes/com/CeCBH/CeCBH/Service/UsuarioService.class" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/CeCBH/target/classes/com/CeCBH/CeCBH/Service/UsuarioService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/src/components/cliente/LoginCliente.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/src/components/cliente/LoginCliente.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/src/components/common/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/src/components/common/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/src/components/common/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/src/components/common/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/src/components/routers/AppRouters.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/src/components/routers/AppRouters.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/src/components/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/src/components/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codigo/frontend/src/components/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/Codigo/frontend/src/components/styles/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="07102024_home-page" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;leticiaafigueiredo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2024-2-ti3-9577100-c-c-bh.git&quot;,
+    &quot;accountId&quot;: &quot;a73cc819-d8b0-4330-8caf-8552749a3959&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mU2aiYxVcuNDBOwOWudEtnmc5r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CeCbhApplication.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;19102024__carrinho-de-compras&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/letci/Documents/puc/git/pmg-es-2024-2-ti3-9577100-c-c-bh&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\letci\Documents\puc\git\pmg-es-2024-2-ti3-9577100-c-c-bh\Codigo\CeCBH" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CeCbhApplication">
+    <configuration name="CeCbhApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.CeCBH.CeCBH.CeCbhApplication" />
+      <module name="CeCBH" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.CeCBH.CeCBH.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="pmg-es-2024-2-ti3-9577100-c-c-bh" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="pmg-es-2024-2-ti3-9577100-c-c-bh" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CeCbhApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="CeCBH" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.CeCBH.CeCBH.CeCbhApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CeCbhApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a59028d-feb3-4a92-b3c9-b75da7a2a985" name="Changes" comment="" />
+      <created>1727116899509</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727116899509</updated>
+      <workItem from="1727119410035" duration="1607000" />
+      <workItem from="1727168681838" duration="1904000" />
+      <workItem from="1727231696820" duration="2213000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Codigo/CeCBH/src/main/java/com/CeCBH/CeCBH/CeCbhApplication.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

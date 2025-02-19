@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-CeCbhApplication<CeCBH>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.CeCBH.CeCBH.CeCbhApplication",
+            "projectName": "CeCBH",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

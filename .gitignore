@@ -1,0 +1,7 @@
+.env
+Codigo/.idea/workspace.xml
+*.class
+Codigo/CeCBH/target
+Codigo/frontend/node_modules
+test_payment_methods.json
+**/node_modules
